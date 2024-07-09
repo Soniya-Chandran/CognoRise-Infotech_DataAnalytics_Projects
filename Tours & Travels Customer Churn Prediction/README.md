@@ -1,4 +1,4 @@
-Customer Churn Prediction
+**Customer Churn Prediction**
 
 ⭕Objective: Analyse the given data to identify the Churn rate of customers in the Tours&Travel Industry.
 
